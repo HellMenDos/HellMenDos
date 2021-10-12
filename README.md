@@ -7,11 +7,6 @@
   ![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js&logoColor=green)
   ![Svelte](https://img.shields.io/badge/-svelte-090909?style=for-the-badge&logo=svelte&logoColor=orange)
   
-<br/>
-  ![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=ReactNative&logoColor=blue)
-  ![NativeScript](https://img.shields.io/badge/-NativeScript-090909?style=for-the-badge&logo=NativeScript&logoColor=blue)
-  ![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
-  
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=green)
   <br/>
   ![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express&logoColor=green)
@@ -19,6 +14,9 @@
   ![Koa.js](https://img.shields.io/badge/-Koa.js-090909?style=for-the-badge&logo=Koa.js&logoColor=green)
   ![fastify](https://img.shields.io/badge/-fastify-090909?style=for-the-badge&logo=fastify&logoColor=green)
 
-
+<br/>
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=ReactNative&logoColor=blue)
+  ![NativeScript](https://img.shields.io/badge/-NativeScript-090909?style=for-the-badge&logo=NativeScript&logoColor=blue)
+  ![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
 
 
