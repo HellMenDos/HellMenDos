@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div>
+sfsf
+</div>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
  <br/>
   ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
@@ -26,8 +27,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellMenDos&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellMenDos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HellMenDos)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
