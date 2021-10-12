@@ -17,6 +17,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=blue)
 ![FastApi](https://img.shields.io/badge/-FastApi-090909?style=for-the-badge&logo=FastApi&logoColor=blue)
-
+![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=green)
 
 
