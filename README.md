@@ -8,7 +8,6 @@
   ![Svelte](https://img.shields.io/badge/-svelte-090909?style=for-the-badge&logo=svelte&logoColor=orange)
   
 <br/>
-  ![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=ionic&logoColor=blue)
   ![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=ReactNative&logoColor=blue)
   ![NativeScript](https://img.shields.io/badge/-NativeScript-090909?style=for-the-badge&logo=NativeScript&logoColor=blue)
   ![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
