@@ -25,6 +25,6 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=Ionic&logoColor=blue)
 ![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellMenDos&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellMenDos&count_private=true&show_icons=true)
 
 
