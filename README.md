@@ -14,9 +14,9 @@
   ![Koa.js](https://img.shields.io/badge/-Koa.js-090909?style=for-the-badge&logo=Koa.js&logoColor=green)
   ![fastify](https://img.shields.io/badge/-fastify-090909?style=for-the-badge&logo=fastify&logoColor=green)
 
-<br/>
-  ![fastify](https://img.shields.io/badge/-fastify-090909?style=for-the-badge&logo=fastify&logoColor=green)
-  ![NativeScript](https://img.shields.io/badge/-NativeScript-090909?style=for-the-badge&logo=NativeScript&logoColor=blue)
-  ![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=green)
+
+
 
 
