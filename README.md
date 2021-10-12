@@ -21,3 +21,7 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=green)
 
 ![NativeScript](https://img.shields.io/badge/-NativeScript-090909?style=for-the-badge&logo=NativeScript&logoColor=blue)
+![ReactNative](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=ReactNative&logoColor=blue)
+![Ionic](https://img.shields.io/badge/-Ionic-090909?style=for-the-badge&logo=Ionic&logoColor=blue)
+![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
+
