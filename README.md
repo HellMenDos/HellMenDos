@@ -26,7 +26,8 @@
 ![Electron](https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron&logoColor=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellMenDos&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellMenDos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HellMenDos)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
